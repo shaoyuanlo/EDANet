@@ -7,7 +7,7 @@ by Shao-Yuan Lo, Hsueh-Ming Hang, Sheng-Wei Chan, Jing-Jhih Lin
 
 ![EDANet](https://github.com/shaoyuanlo/EDANet/blob/master/models/EDANet_figure.PNG)
 
-NOTE: The source codes must be kept confidential due to the sponsor's request for this project. We try our best to provide the implementation details as much as possible. We hope it would be easy for you to reproduce and utilize this work.
+NOTE: The source codes must be kept confidential due to the sponsor's request for this project. If you are interested in reproducing EDANet, you can try to write the network code (we use PyTorch) based on the layer disposal we provided. Then welcome to send your code to Shao-Yuan Lo (me, the email address is shown in the paper) via email. I will check the code for you.
 
 ## Pakages
 This repository is organized as:
