@@ -3,11 +3,13 @@ This repository contains the implementation details of our paper: [[arXiv:1809.0
 
 **"Efficient Dense Modules of Asymmetric Convolution for Real-Time Semantic Segmentation"**
 
-by Shao-Yuan Lo, Hsueh-Ming Hang, Sheng-Wei Chan, Jing-Jhih Lin
+by [Shao-Yuan Lo](https://github.com/shaoyuanlo), Hsueh-Ming Hang, Sheng-Wei Chan, Jing-Jhih Lin
 
 ![EDANet](https://github.com/shaoyuanlo/EDANet/blob/master/models/EDANet_figure.PNG)
 
-NOTE: The source codes must be kept confidential due to the sponsor's request for this project. If you are interested in reproducing EDANet, you can try to write the network code (we use PyTorch) based on the layer disposal we provided. Then welcome to send your code to Shao-Yuan Lo (me, the email address is shown in the paper) via email. I will check the code for you.
+NOTE: I cannot share our source codes due to the sponsor's request for this project. If you are interested in reproducing EDANet, you can try to write the network code (we use PyTorch) based on the layer disposal I provided here. Or you can access the implementations by others: [[pytorch_EDANet]](https://github.com/wpf535236337/pytorch_EDANet) (Pengfei Wang).
+
+If you have any questions or suggestions, welcome to contact Shao-Yuan Lo (me, the email address is shown in the paper).
 
 ## Pakages
 This repository is organized as:
