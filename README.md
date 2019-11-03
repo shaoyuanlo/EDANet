@@ -32,4 +32,4 @@ In our paper, it also shows the evaluation results on the [CamVid](http://mi.eng
 ## Citation
 If EDANet is useful for your research, please consider citing our paper:
 
-*   S.-Y. Lo, H.-M. Hang, S.-W. Chan, and J.-J. Lin, “Efficient dense modules of asymmetric convolution for real-time semantic segmentation,” arXiv preprint arXiv: 1809.06323, 2018.
+*   S.-Y. Lo, H.-M. Hang, S.-W. Chan, and J.-J. Lin, “Efficient dense modules of asymmetric convolution for real-time semantic segmentation,” in ACM International Conference on Multimedia in Asia (ACMMM Asia), 2019.
