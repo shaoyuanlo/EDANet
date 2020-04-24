@@ -11,7 +11,7 @@ NOTE: I cannot share our source codes due to the sponsor's request for this proj
 
 If you have any questions or suggestions, welcome to contact Shao-Yuan Lo (me, the email address is shown in the paper).
 
-## Pakages
+## Packages
 This repository is organized as:
 
 *   [models](https://github.com/shaoyuanlo/EDANet/tree/master/models) contains the layer disposal of EDANet and each network variant introduced in our paper.
